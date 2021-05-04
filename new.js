@@ -93,19 +93,19 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://imagevisit.com/images/2020/05/24/son-min.png "
-, "https://hizliresim.com/HZjuj8"
-, "https://imagevisit.com/images/2020/10/29/1_edited.jpg "
-, "https://hizliresim.com/Qt4TnY "
-, "https://imagevisit.com/images/2021/01/24/cerceveimza.jpg "
-, "https://i.hizliresim.com/lE7Gpr.png "
-, "https://hizliresim.com/S026Ap "
-, "https://i.hizliresim.com/2JMpAE.jpg "
-, "https://i.hizliresim.com/P0NJod.jpg "
-, "https://i.ibb.co/VBzWCr5/3.jpg "
-, "https://i.ibb.co/zQw1Z1h/6.jpg "
-, "https://i.ibb.co/SRLMphv/7.jpg "
-, "https://i.ibb.co/v35BqN1/1.jpg "
+"https://forcekutal.github.io/-nterforce/force1.jpg "
+, "https://forcekutal.github.io/-nterforce/force2.jpg"
+, "https://forcekutal.github.io/-nterforce/force3.jpg "
+, "https://forcekutal.github.io/-nterforce/force4.jpg "
+, "https://forcekutal.github.io/-nterforce/force5.jpg "
+, "https://forcekutal.github.io/-nterforce/force6.jpg "
+, "https://forcekutal.github.io/-nterforce/force7.jpg "
+, "https://forcekutal.github.io/-nterforce/force8.jpg "
+, "https://forcekutal.github.io/-nterforce/force9.jpg "
+, "https://forcekutal.github.io/-nterforce/force10.jpg "
+, "https://forcekutal.github.io/-nterforce/force11.jpg "
+, "https://forcekutal.github.io/-nterforce/force12.jpg "
+, "https://forcekutal.github.io/-nterforce/force13.jpg "
 
 ], {duration: 7000, fade: 500});
 
