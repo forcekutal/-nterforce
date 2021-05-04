@@ -93,18 +93,18 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://forcekutal.github.io/-nterforce/force1.jpg "
+"https://www.imagevisit.com/images/2021/05/04/force13-1.jpg "
 , "https://forcekutal.github.io/-nterforce/force2.jpg"
-, "https://forcekutal.github.io/-nterforce/force3.jpg "
-, "https://forcekutal.github.io/-nterforce/force4.jpg "
-, "https://forcekutal.github.io/-nterforce/force5.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force3.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force4.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force5.png "
 , "https://forcekutal.github.io/-nterforce/force6.jpg "
-, "https://forcekutal.github.io/-nterforce/force7.jpg "
-, "https://forcekutal.github.io/-nterforce/force8.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force7.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force8.png "
 , "https://forcekutal.github.io/-nterforce/force9.jpg "
-, "https://forcekutal.github.io/-nterforce/force10.jpg "
-, "https://forcekutal.github.io/-nterforce/force11.jpg "
-, "https://forcekutal.github.io/-nterforce/force12.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force10.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force11.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force12.jpg "
 , "https://forcekutal.github.io/-nterforce/force13.jpg "
 
 ], {duration: 7000, fade: 500});
