@@ -94,6 +94,7 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2021/05/04/force13-1.jpg "
+, "https://forcekutal.github.io/-nterforce/force14.jpg "
 , "https://forcekutal.github.io/-nterforce/force2.jpg"
 , "https://i.resmim.net/Q5vI2.jpg "
 , "https://www.imagevisit.com/images/2021/05/04/force3.jpg "
