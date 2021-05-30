@@ -99,6 +99,7 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2020/05/02/AYT.jpg "
 , "https://www.imagevisit.com/images/2021/05/28/VKHHR0.jpg "
 , "https://www.imagevisit.com/images/2021/05/28/MVkVUk.jpg "
+, "https://www.imagevisit.com/images/2021/05/30/edited.jpg "
 , "https://forcekutal.github.io/-nterforce/force14.jpg "
 , "https://forcekutal.github.io/-nterforce/force2.jpg"
 , "https://i.resmim.net/Q5vI2.jpg "
