@@ -101,7 +101,6 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2021/05/28/MVkVUk.jpg "
 , "https://www.imagevisit.com/images/2021/05/30/edited.jpg "
 , "https://forcekutal.github.io/-nterforce/force14.jpg "
-, "https://forcekutal.github.io/-nterforce/force2.jpg"
 , "https://www.imagevisit.com/images/2021/11/16/inter-3.jpg "
 , "https://www.imagevisit.com/images/2021/11/21/1.jpg "
 , "https://www.imagevisit.com/images/2021/11/16/inter-1.jpg "
