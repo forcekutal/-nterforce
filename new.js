@@ -94,7 +94,8 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2021/05/04/force13-1.jpg "
-
+	
+, "https://www.imagevisit.com/images/2022/01/15/inter-6.jpg "
 , "https://www.imagevisit.com/images/2020/05/06/hrreherher.jpg "
 , "https://www.imagevisit.com/images/2020/05/02/AYT.jpg "
 , "https://www.imagevisit.com/images/2021/05/28/VKHHR0.jpg "
