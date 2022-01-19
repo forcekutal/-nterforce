@@ -96,12 +96,6 @@ $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2021/05/04/force13-1.jpg "
 	
 , "https://www.imagevisit.com/images/2022/01/15/inter-6.jpg "
-, "https://www.imagevisit.com/images/2020/05/06/hrreherher.jpg "
-, "https://www.imagevisit.com/images/2020/05/02/AYT.jpg "
-, "https://www.imagevisit.com/images/2021/05/28/VKHHR0.jpg "
-, "https://www.imagevisit.com/images/2021/05/28/MVkVUk.jpg "
-, "https://www.imagevisit.com/images/2021/05/30/edited.jpg "
-, "https://forcekutal.github.io/-nterforce/force14.jpg "
 , "https://www.imagevisit.com/images/2021/11/29/intt.png "
 , "https://www.imagevisit.com/images/2021/11/16/inter-3.jpg "
 , "https://www.imagevisit.com/images/2021/11/21/1.jpg "
