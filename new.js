@@ -115,6 +115,8 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2021/11/09/InternationalForce.jpg "
 , "https://www.imagevisit.com/images/2022/01/17/InterForce.jpg "
 , "https://klasresim.com/resmim/wxsjo3.jpg "
+, "https://www.imagevisit.com/images/2022/01/17/InterForce.jpg "
+
 
 ], {duration: 7000, fade: 500});
 
