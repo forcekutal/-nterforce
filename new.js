@@ -112,6 +112,9 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2021/05/04/force11.jpg "
 , "https://www.imagevisit.com/images/2021/05/04/force12.jpg "
 , "https://forcekutal.github.io/-nterforce/force13.jpg "
+, "https://www.imagevisit.com/images/2021/11/09/InternationalForce.jpg "
+, "https://www.imagevisit.com/images/2022/01/17/InterForce.jpg "
+, "https://klasresim.com/resmim/wxsjo3.jpg "
 
 ], {duration: 7000, fade: 500});
 
