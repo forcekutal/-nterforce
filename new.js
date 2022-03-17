@@ -93,7 +93,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/02/24/haddinibilrusya-sco2.jpg "
+https://www.imagevisit.com/images/2022/03/17/18MartCanakkaleZaferii.png "
 	
 , "https://www.imagevisit.com/images/2022/03/17/18-MART-1915-CANAKKALE-ZAFERI.jpg "
  
