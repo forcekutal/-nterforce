@@ -93,9 +93,30 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-https://www.imagevisit.com/images/2022/03/17/18MartCanakkaleZaferii.png "
+https://www.imagevisit.com/images/2022/03/17/ASKER-INTERNATIONAL-FORCE.jpg "
 	
-, "https://www.imagevisit.com/images/2022/03/17/18-MART-1915-CANAKKALE-ZAFERI.jpg "
+, "https://www.imagevisit.com/images/2022/02/27/inter-120cdff2844fbf120.png "
+, "https://www.imagevisit.com/images/2022/01/15/inter-6.jpg "
+, "https://www.imagevisit.com/images/2021/11/29/intt.png "
+, "https://www.imagevisit.com/images/2022/02/27/inter-3.png "
+, "https://www.imagevisit.com/images/2021/11/21/1.jpg "
+, "https://www.imagevisit.com/images/2021/11/16/inter-1.jpg "
+, "https://www.imagevisit.com/images/2022/02/27/inter-2.png"
+, "https://www.imagevisit.com/images/2021/05/04/force3.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force4.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force5.png "
+, "https://forcekutal.github.io/-nterforce/force6.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force7.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force8.png "
+, "https://forcekutal.github.io/-nterforce/force9.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force10.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force11.jpg "
+, "https://www.imagevisit.com/images/2021/05/04/force12.jpg "
+, "https://forcekutal.github.io/-nterforce/force13.jpg "
+, "https://www.imagevisit.com/images/2021/11/09/InternationalForce.jpg "
+, "https://www.imagevisit.com/images/2022/01/17/InterForce.jpg "
+, "https://klasresim.com/resmim/wxsjo3.jpg "
+, "https://www.imagevisit.com/images/2022/01/17/InterForce.jpg "
  
 
 
