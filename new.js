@@ -94,6 +94,7 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/03/17/ASKER-INTERNATIONAL-FORCE.jpg "
+, "https://www.imagevisit.com/images/2022/02/24/internationalforce3.jpg "
 , "https://www.imagevisit.com/images/2022/02/27/inter-120cdff2844fbf120.png "
 , "https://www.imagevisit.com/images/2022/01/15/inter-6.jpg "
 , "https://www.imagevisit.com/images/2021/11/29/intt.png "
