@@ -94,6 +94,9 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/06/19/jiq-M0Oe.jpg "
+, "https://www.imagevisit.com/images/2022/06/19/1617fbcd1239ada9d.jpg "
+, "https://www.imagevisit.com/images/2022/06/19/2.jpg "
+, "https://www.imagevisit.com/images/2022/06/19/3669a028e990bfb46.jpg "
 
 
 ], {duration: 7000, fade: 500});
