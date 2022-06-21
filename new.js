@@ -97,6 +97,9 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2022/06/19/1617fbcd1239ada9d.jpg "
 , "https://www.imagevisit.com/images/2022/06/19/2.jpg "
 , "https://www.imagevisit.com/images/2022/06/19/3669a028e990bfb46.jpg "
+, "https://www.imagevisit.com/images/2022/06/21/4.jpg "
+, "https://www.imagevisit.com/images/2022/06/21/56b808f587ba2b0be.jpg "
+, "https://www.imagevisit.com/images/2022/06/21/6.jpg "
 
 
 ], {duration: 7000, fade: 500});
